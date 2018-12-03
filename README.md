@@ -1,2 +1,2 @@
-# snaptag
-V1 SNAPTAG website built on Sass/bootstrap HTML
+# TAGLIFE v1
+V1 TAGLIFE website built on Sass/bootstrap HTML
